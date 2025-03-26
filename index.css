@@ -1,0 +1,29 @@
+.header {
+display: flex;
+background-color: blueviolet;
+text-align: center;
+
+}
+
+.section {
+display: flex;
+padding: 10px;
+border: 1px;
+font-size: 10px;
+
+}
+
+.sectin1 {
+    border: 1px;
+    background-color: grey;
+    text-align: right;
+    display: flex;
+
+}
+
+.section2 {
+    border: 1px;
+    background-color: grey;
+    text-align: right;
+    font-size: 5px;
+}
